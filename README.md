@@ -1,5 +1,6 @@
 # Static Website Deployment on AWS with Ansible 
-![Alt text]( Ansible_Reference_Architecture.jpg)
+![Alt text](Ansible_Reference_Architecture.jpg)
+![Alt text](resources_utilization.jpg)
 
 ## 1. Project Overview
 This project demonstrates the deployment of a static website on AWS using Ansible. It highlights the automation of the deployment process on EC2 instances, leveraging various AWS services and Ansible's powerful configuration management capabilities.
