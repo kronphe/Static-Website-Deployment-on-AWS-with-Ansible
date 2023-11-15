@@ -1,5 +1,9 @@
 # Static Website Deployment on AWS with Ansible 
+
+Reference Architecture:
 ![Alt text](Ansible_Reference_Architecture.jpg)
+
+Resources Utilization:
 ![Alt text](resources_utilization.jpg)
 
 ## 1. Project Overview
