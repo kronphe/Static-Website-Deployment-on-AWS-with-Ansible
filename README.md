@@ -39,8 +39,6 @@ The GitHub repository includes:
 - **Deployment Playbook:** deploy-jupiter-website.yml.
 - **Reference Architecture Diagram:** Ansible_Reference_Architecture.jpg.
 
-[GitHub Repository Link]([https://github.com/kronphe/Static-Website-Deployment-on-AWS-with-Ansible])
-
 ## 6. Additional Resources and Link
 - **Ansible Documentation:** Detailed guides and tutorials on Ansible usage.
 - **AWS Documentation:** Comprehensive information on AWS services used in the project.
